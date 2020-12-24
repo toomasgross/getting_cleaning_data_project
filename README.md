@@ -26,5 +26,7 @@ Information about this repository
 Apart from the current file, this repository contains 3 other files:
 
 run_analysis.R - This script performs the 5 tasks described above
+
 tidy_data_set.txt - a text file that contains tidied final output when running the run_analysis.R script
+
 CodeBook.md - the file contains the definitions of each column in tidy_data_set.txt file
