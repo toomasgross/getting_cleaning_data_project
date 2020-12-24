@@ -1,14 +1,17 @@
 Project work for Getting and Cleaning Data course 
+-------------------------------------------------
 
 This repository was built for the course project of the "Getting and Cleaning Data" course at Coursera.  This is the third module in the Data Science specialization.
 
 Summary of the project
+----------------------
 
 The goal of the project was to prepare tidy data set based on data available at  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 This is data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 
 Specific aims of the project 
+----------------------------
 
 The task was to create one R script called run_analysis.R that does the following: 
 
@@ -20,6 +23,7 @@ The task was to create one R script called run_analysis.R that does the followin
 
 
 Information about this repository 
+---------------------------------
 
 Apart from the current file, this repository contains 3 other files:
 
